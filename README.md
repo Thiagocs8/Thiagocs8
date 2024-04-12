@@ -6,17 +6,14 @@ Sobre Mim
 🌱 Atividades Atuais: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 💼 Experiência Profissional: 
 Habilidades
-Linguagens de Programação: Java, Python, C#
+Linguagens de Programação: C#
 Desenvolvimento Web: HTML, CSS, JavaScript, React
 Banco de Dados: MySQL, MongoDB
 Metodologias: Scrum, Kanban
 Ferramentas: Git, VS Code, Eclipse
 
-
-Contribuições
-
 Contato
 E-mail: trigocs64@gmail.com
-Twitter: 
-LinkedIn: 
+Twitter: thiago__costa_
+Instagram: thiago__costa_ 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
