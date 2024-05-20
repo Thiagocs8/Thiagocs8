@@ -199,6 +199,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
+ <td aling="center" colspan="1"> Pix </td>
 <tr>
 <td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
 </tr>
