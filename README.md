@@ -75,7 +75,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
  
 - :atom: &nbsp; Sou entusiasta da Linguagem C, 
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são pedalar, jogar futebol e jogar video-game.<br />
+- bike: &nbsp; Meus hobbies são pedalar, jogar futebol e jogar video-game.<br />
 
 
 </p>
