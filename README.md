@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Thiagocs8/Thiagocs8/blob/main/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Thiagocs8/Thiagocs8/blob/main/Black White Minimalist Gaming Banner"/>
 </div>
 
 -----
