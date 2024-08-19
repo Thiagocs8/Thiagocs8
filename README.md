@@ -257,25 +257,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
   
 ```                                        
 
-</div>
-<div>
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="mailto:Thiagocs8@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Thiagocs8/Thiagocs8/blob/main/githubfooter2.png?raw=true" alt="github-footer2"/></a>
-</td>
-<td>
-<a href="https://github.com/Thiagocs8" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Thiagocs8/Thiagocs8/blob/main/githubfooter1.png?raw=true" alt="github-footer1"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
+
 
 -----
 
