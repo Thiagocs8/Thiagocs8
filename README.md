@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, meu nome é Thiago, tenho 18 anos, moro em bh e sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. />
+<i><b>Olá</b> :wave:, meu nome é Thiago, tenho 19 anos, moro em Belo Horizonte e sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. />
 </div>
 
 -----
@@ -44,18 +44,17 @@
 ## Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 - **Sobre Mim 👨‍🎓 Graduação:** Engenharia de Software na PUC Minas. 
 - **🌱 Atividades Atuais:** Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis. 
-- **💼 Experiência Profissional:** 
 
 ## Habilidades 
-- **Linguagens de Programação:** C# 
+- **Linguagens de Programação:** C, Java 
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB 
+- **Banco de Dados:** MySQL, SQL 
 - **Metodologias:** Scrum, Kanban 
-- **Ferramentas:** Git, VS Code, Eclipse 
-- **Línguas:** Espanhol fluente
+- **Ferramentas:** Git, VS Code, Eclipse, Intellij
+- **Línguas:** Espanhol fluente, Inglês intermediário
 ## Contato 
-- **E-mail:** trigocs64@gmail.com 
-- **Twitter:** thiago__costa_ 
+- **E-mail:** thiag0cs@outlook.com
+- **Telefone:** (31) 99951-8598
 - **Instagram:** thiago__costa_ 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
