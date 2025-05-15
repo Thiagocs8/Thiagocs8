@@ -22,7 +22,7 @@
 </td>
 <td><a href="https://www.instagram.com/thiago__costa_/" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
- <td><a href="https://www.linkedin.com/in/thiago-costa-soares-13a179351/" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+ <td><a href="https://www.linkedin.com/in/thiago-costa-soares-13a179351/" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
