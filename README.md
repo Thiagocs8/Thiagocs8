@@ -18,7 +18,7 @@
 </td>
 <td><a href="mailto:thiag0cs@outlook.com" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531999518598" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/wpp2.png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531999518598" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/wpp.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/thiago__costa_/" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
