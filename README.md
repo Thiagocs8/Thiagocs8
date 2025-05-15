@@ -14,13 +14,13 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Thiagocs8" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Thiagocs8" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:thiag0cs@outlook.com" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531999518598" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/thiago__costa_/" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/thiago__costa_/" target="_blank"><img src="https://github.com/Thiagocs8/Thiagocs8/blob/main/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
