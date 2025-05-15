@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/Thiagocs8/Thiagocs8/blob/main/222.gif?raw=true"/>
+<img align="right" alt="GIF" src="https://github.com/Thiagocs8/Thiagocs8/blob/main/222.gif"/>
 </div>
 
 -----
