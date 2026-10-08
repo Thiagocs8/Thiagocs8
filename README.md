@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, meu nome é Thiago, tenho 19 anos, moro em Belo Horizonte e sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. />
+<i><b>Olá</b> :wave:, meu nome é Thiago, tenho 21 anos, moro em Belo Horizonte e sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. />
 </div>
 
 -----
